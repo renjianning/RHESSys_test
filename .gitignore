@@ -1,0 +1,17 @@
+# Compiled object files
+*.o
+*.pyc
+
+# Build directories
+objects/
+
+# Eclipse metadata
+.project
+.cproject
+
+# OS X extended attribute stores
+.DS_Store
+
+# Editor leftovers
+*~
+
